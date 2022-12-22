@@ -1,0 +1,1075 @@
+[
+    {
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Where is the train station &quot;Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch&quot;?",
+"correct_answer": "Wales",
+"incorrect_answers": [
+"Moldova",
+"Czech Republic",
+"Denmark"
+]
+},
+{
+"category": "General Knowledge",
+"type": "boolean",
+"difficulty": "easy",
+"question": "The Great Wall of China is visible from the moon.",
+"correct_answer": "False",
+"incorrect_answers": [
+"True"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "easy",
+"question": "What is the largest organ of the human body?",
+"correct_answer": "Skin",
+"incorrect_answers": [
+"Heart",
+"large Intestine",
+"Liver"
+]
+},
+{
+"category": "General Knowledge",
+"type": "boolean",
+"difficulty": "easy",
+"question": "The Sun rises from the North.",
+"correct_answer": "False",
+"incorrect_answers": [
+"True"
+]
+},
+{
+"category": "General Knowledge",
+"type": "boolean",
+"difficulty": "easy",
+"question": "One of Donald Trump&#039;s 2016 Presidential Campaign promises was to build a border wall between the United States and Mexico.",
+"correct_answer": "True",
+"incorrect_answers": [
+"False"
+]
+},
+{
+"category": "General Knowledge",
+"type": "boolean",
+"difficulty": "easy",
+"question": "Vietnam&#039;s national flag is a red star in front of a yellow background.",
+"correct_answer": "False",
+"incorrect_answers": [
+"True"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "easy",
+"question": "What are Panama hats made out of?",
+"correct_answer": "Straw",
+"incorrect_answers": [
+"Silk",
+"Hemp",
+"Flax"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "easy",
+"question": "The Canadian $1 coin is colloquially known as a what?",
+"correct_answer": "Loonie",
+"incorrect_answers": [
+"Boolie",
+"Foolie",
+"Moodie"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which of the following blood component forms a plug at the site of injuries?",
+"correct_answer": "Platelets",
+"incorrect_answers": [
+"Red blood cells",
+"White blood cells",
+"Blood plasma"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "easy",
+"question": "What is the French word for &quot;fish&quot;?",
+"correct_answer": "poisson",
+"incorrect_answers": [
+"fiche",
+"escargot",
+"mer"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Rolex is a company that specializes in what type of product?",
+"correct_answer": "Watches",
+"incorrect_answers": [
+"Cars",
+"Computers",
+"Sports equipment"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Which language is NOT Indo-European?",
+"correct_answer": "Hungarian",
+"incorrect_answers": [
+"Russian",
+"Greek",
+"Latvian"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "medium",
+"question": "What is the unit of currency in Laos?",
+"correct_answer": "Kip",
+"incorrect_answers": [
+"Ruble",
+"Konra",
+"Dollar"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "medium",
+"question": "What is the Italian word for &quot;tomato&quot;?",
+"correct_answer": "Pomodoro",
+"incorrect_answers": [
+"Aglio",
+"Cipolla",
+"Peperoncino"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "medium",
+"question": "What is the name of the popular animatronic singing fish prop, singing such hits such as &quot;Don&#039;t Worry, Be Happy&quot;?",
+"correct_answer": "Big Mouth Billy Bass",
+"incorrect_answers": [
+"Big Billy Bass",
+"Singing Fish",
+"Sardeen"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "medium",
+"question": "According to the United States&#039; CDC, one in how many Americans die annually due to smoking?",
+"correct_answer": "Five",
+"incorrect_answers": [
+"Twenty",
+"Ten",
+"One hundred"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "medium",
+"question": "What is real haggis made of?",
+"correct_answer": "Sheep&#039;s Heart, Liver and Lungs",
+"incorrect_answers": [
+"Sheep&#039;s Heart, Kidneys and Lungs",
+"Sheep&#039;s Liver, Kidneys and Eyes",
+"Whole Sheep"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Where did the pineapple plant originate?",
+"correct_answer": "South America",
+"incorrect_answers": [
+"Hawaii",
+"Europe",
+"Asia"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "medium",
+"question": "The Fields Medal, one of the most sought after awards in mathematics, is awarded every how many years?",
+"correct_answer": "4",
+"incorrect_answers": [
+"3",
+"5",
+"6"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Linus Pauling, one of the only winners of multiple Nobel Prizes, earned his Nobel Prizes in Chemistry and what?",
+"correct_answer": "Peace",
+"incorrect_answers": [
+"Physics",
+"Economics",
+"Physiology/Medicine"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "hard",
+"question": "Which of the following chemicals are found in eggplant seeds?",
+"correct_answer": "Nicotine",
+"incorrect_answers": [
+"Mescaline",
+"Cyanide",
+"Psilocybin"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "hard",
+"question": "The Swedish word &quot;Grunka&quot; means what in English?",
+"correct_answer": "Thing",
+"incorrect_answers": [
+"People",
+"Place",
+"Pineapple"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "hard",
+"question": "Which of the following languages does NOT use gender as a part of its grammar?",
+"correct_answer": "Turkish",
+"incorrect_answers": [
+"German",
+"Danish",
+"Polish"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "hard",
+"question": "How many calories are in a 355 ml can of Pepsi Cola?",
+"correct_answer": "150",
+"incorrect_answers": [
+"200",
+"100",
+"155"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "hard",
+"question": "De Eemhof, Port Zelande and Het Heijderbos are holiday villas owned by what company?",
+"correct_answer": "Center Parcs",
+"incorrect_answers": [
+"Yelloh Village",
+"Keycamp",
+"Villa Plus"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "hard",
+"question": "According to the 2014-2015 Australian Bureau of Statistics, what percentage of Australians were born overseas?",
+"correct_answer": "28%",
+"incorrect_answers": [
+"13%",
+"20%",
+"7%"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "hard",
+"question": "What does the Latin phrase &quot;Veni, vidi, vici&quot; translate into English?",
+"correct_answer": "I came, I saw, I conquered",
+"incorrect_answers": [
+"See no evil, hear no evil, speak no evil",
+"Life, liberty, and happiness",
+"Past, present, and future"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "hard",
+"question": "Named after the mallow flower, mauve is a shade of what?",
+"correct_answer": "Purple",
+"incorrect_answers": [
+"Red",
+"Brown",
+"Pink"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "hard",
+"question": "Nephelococcygia is the practice of doing what?",
+"correct_answer": "Finding shapes in clouds",
+"incorrect_answers": [
+"Sleeping with your eyes open",
+"Breaking glass with your voice",
+"Swimming in freezing water"
+]
+},
+{
+"category": "General Knowledge",
+"type": "multiple",
+"difficulty": "hard",
+"question": "The word &quot;aprosexia&quot; means which of the following?",
+"correct_answer": "The inability to concentrate on anything",
+"incorrect_answers": [
+"The inability to make decisions",
+"A feverish desire to rip one&#039;s clothes off",
+"The inability to stand up"
+]
+},
+{
+
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which type of rock is created by intense heat AND pressure?",
+"correct_answer": "Metamorphic",
+"incorrect_answers": [
+"Sedimentary",
+"Igneous",
+"Diamond"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "easy",
+"question": "What is the powerhouse of the cell?",
+"correct_answer": "Mitochondria",
+"incorrect_answers": [
+"Ribosome",
+"Redbull",
+"Nucleus"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Alzheimer&#039;s disease primarily affects which part of the human body?",
+"correct_answer": "Brain",
+"incorrect_answers": [
+"Lungs",
+"Skin",
+"Heart"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "easy",
+"question": "The human heart has how many chambers?",
+"correct_answer": "4",
+"incorrect_answers": [
+"2",
+"6",
+"3"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "easy",
+"question": "The element involved in making human blood red is which of the following?",
+"correct_answer": "Iron",
+"incorrect_answers": [
+"Copper",
+"Iridium",
+"Cobalt"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "easy",
+"question": "The asteroid belt is located between which two planets?",
+"correct_answer": "Mars and Jupiter",
+"incorrect_answers": [
+"Jupiter and Saturn",
+"Mercury and Venus",
+"Earth and Mars"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "easy",
+"question": "The medical term for the belly button is which of the following?",
+"correct_answer": "Umbilicus",
+"incorrect_answers": [
+"Nevus",
+"Nares",
+"Paxillus"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "easy",
+"question": "71% of the Earth&#039;s surface is made up of",
+"correct_answer": "Water",
+"incorrect_answers": [
+"Deserts",
+"Continents",
+"Forests"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "easy",
+"question": "What is the speed of light in a vacuum?",
+"correct_answer": "299,792,458 m/s",
+"incorrect_answers": [
+"50,461 m/s",
+"308,215,043 m/s",
+"751,665,014,151 m/s"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Who discovered the Law of Gravity?",
+"correct_answer": "Sir Isaac Newton",
+"incorrect_answers": [
+"Galileo Galilei",
+"Charles Darwin",
+"Albert Einstein"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Along with Oxygen, which element is primarily responsible for the sky appearing blue?",
+"correct_answer": "Nitrogen",
+"incorrect_answers": [
+"Helium",
+"Carbon",
+"Hydrogen"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "medium",
+"question": "The moons, Miranda, Ariel, Umbriel, Titania and Oberon orbit which planet?",
+"correct_answer": "Uranus",
+"incorrect_answers": [
+"Jupiter",
+"Venus",
+"Neptune"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Which of these stars is the largest?",
+"correct_answer": "UY Scuti",
+"incorrect_answers": [
+"VY Canis Majoris",
+"Betelgeuse",
+"RW Cephei"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "medium",
+"question": "To the nearest minute, how long does it take for light to travel from the Sun to the Earth?",
+"correct_answer": "8 Minutes",
+"incorrect_answers": [
+"6 Minutes",
+"2 Minutes",
+"12 Minutes"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "medium",
+"question": "What is the chemical formula for ammonia?",
+"correct_answer": "NH3",
+"incorrect_answers": [
+"CO2",
+"NO3",
+"CH4"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "medium",
+"question": "What term is best associated with Sigmund Freud?",
+"correct_answer": "Psychoanalysis",
+"incorrect_answers": [
+"Cognitive-Behavioral Therapy",
+"Theory of Gravity",
+"Dialectical Behavior Therapy"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "medium",
+"question": "What stage of development do the majority of eukaryotic cells remain in for most of their life?",
+"correct_answer": "Interphase",
+"incorrect_answers": [
+"Prophase",
+"Stasis",
+"Telophase"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Deuterium is an isotope of which element?",
+"correct_answer": "Hydrogen",
+"incorrect_answers": [
+"Nitrogen",
+"Helium",
+"Neon"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "medium",
+"question": "What is the scientific term for &#039;taste&#039;?",
+"correct_answer": "Gustatory Perception",
+"incorrect_answers": [
+"Olfaction",
+"Somatosensation",
+"Auditory Perception"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "medium",
+"question": "What is Hypernatremia?",
+"correct_answer": "Increase in blood sodium",
+"incorrect_answers": [
+"Decrease in blood potassium",
+"Increase in blood glucose",
+"Decrease in blood iron"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "hard",
+"question": "If you planted the seeds of Quercus robur what would grow?",
+"correct_answer": "Trees",
+"incorrect_answers": [
+"Flowers",
+"Vegtables",
+"Grains"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "hard",
+"question": "Which one of these is scientific term for &quot;Brain Freeze&quot;?",
+"correct_answer": "Sphenopalatine Ganglioneuralgia",
+"incorrect_answers": [
+"Hyacinthoides Italica",
+"Amaranthus Retroflexus",
+"Amblyomma Americanum"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "hard",
+"question": "A comet&#039;s gaseous envelope (which creates the tail) is called what?",
+"correct_answer": "The coma",
+"incorrect_answers": [
+"The wake",
+"The backwash",
+"The ablative"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "hard",
+"question": "Which of these is a stop codon in DNA?",
+"correct_answer": "TAA",
+"incorrect_answers": [
+"ACT",
+"ACA",
+"GTA"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "hard",
+"question": "What element on the periodic table has 92 electrons?",
+"correct_answer": "Uranium",
+"incorrect_answers": [
+"Sulfur",
+"Hydrogen",
+"Iron"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "hard",
+"question": "What genetic disease is caused by having an extra Y chromosome (XYY)?",
+"correct_answer": "Jacob&#039;s Syndrome",
+"incorrect_answers": [
+"Klinefelter&#039;s Syndrome",
+"Turner&#039;s Syndrome",
+"Down Syndrome"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "hard",
+"question": "Where is the Gluteus Maximus muscle located?",
+"correct_answer": "Butt",
+"incorrect_answers": [
+"Arm",
+"Head",
+"Torso"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "hard",
+"question": "Which of these animals belongs in class Chondrichthyes?",
+"correct_answer": "Great white shark",
+"incorrect_answers": [
+"Octopus",
+"Killer whale",
+"Catfish"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "hard",
+"question": "What was the first organic compound to be synthesized from inorganic compounds?",
+"correct_answer": "Urea",
+"incorrect_answers": [
+"Propane",
+"Ethanol",
+"Formaldehyde"
+]
+},
+{
+"category": "Science & Nature",
+"type": "multiple",
+"difficulty": "hard",
+"question": "In quantum physics, which of these theorised sub-atomic particles has yet to be observed?",
+"correct_answer": "Graviton",
+"incorrect_answers": [
+"Z boson",
+"Tau neutrino",
+"Gluon"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which of the following sports is not part of the triathlon?",
+"correct_answer": "Horse-Riding",
+"incorrect_answers": [
+"Cycling",
+"Swimming",
+"Running"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "easy",
+"question": "In golf, what name is given to a hole score of two under par?",
+"correct_answer": "Eagle",
+"incorrect_answers": [
+"Birdie",
+"Bogey",
+"Albatross"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Who won the 2015 Formula 1 World Championship?",
+"correct_answer": "Lewis Hamilton",
+"incorrect_answers": [
+"Nico Rosberg",
+"Sebastian Vettel",
+"Jenson Button"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "easy",
+"question": "When was the first official international game played?",
+"correct_answer": "1872",
+"incorrect_answers": [
+"1880",
+"1863",
+"1865"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Who is often called &quot;the Maestro&quot; in the men&#039;s tennis circuit?",
+"correct_answer": "Roger Federer",
+"incorrect_answers": [
+"Bill Tilden",
+"Boris Becker",
+"Pete Sampras"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which African American is in part responsible for integrating  Major League baseball?",
+"correct_answer": "Jackie Robinson",
+"incorrect_answers": [
+"Curt Flood",
+"Roy Campanella",
+"Satchell Paige"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "easy",
+"question": "What is the name of Manchester United&#039;s home stadium?",
+"correct_answer": "Old Trafford",
+"incorrect_answers": [
+"Anfield",
+"City of Manchester Stadium",
+"St James Park"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Who won the premier league title in the 2015-2016 season following a fairy tale run?",
+"correct_answer": "Leicester City",
+"incorrect_answers": [
+"Tottenham Hotspur",
+"Watford",
+"Stoke City"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Who did Steven Gerrard win the Champions League with?",
+"correct_answer": "Liverpool",
+"incorrect_answers": [
+"Real Madrid",
+"Chelsea",
+"Man City"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "easy",
+"question": "Which year did Jenson Button won his first ever Formula One World Drivers&#039; Championship?",
+"correct_answer": "2009",
+"incorrect_answers": [
+"2010",
+"2007",
+"2006"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "medium",
+"question": "What cricketing term denotes a batsman being dismissed with a score of zero?",
+"correct_answer": "Duck",
+"incorrect_answers": [
+"Bye",
+"Beamer",
+"Carry"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Who was the British professional wrestler Shirley Crabtree better known as?",
+"correct_answer": "Big Daddy",
+"incorrect_answers": [
+"Giant Haystacks",
+"Kendo Nagasaki",
+"Masambula"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Which team was the 2015-2016 NBA Champions?",
+"correct_answer": "Cleveland Cavaliers",
+"incorrect_answers": [
+"Golden State Warriors",
+"Toronto Raptors",
+"Oklahoma City Thunders"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Which team was the 2014-2015 NBA Champions?",
+"correct_answer": "Golden State Warriors",
+"incorrect_answers": [
+"Cleveland Cavaliers",
+"Houston Rockets",
+"Atlanta Hawks"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Which car manufacturer won the 2016 24 Hours of Le Mans?",
+"correct_answer": "Porsche",
+"incorrect_answers": [
+"Toyota",
+"Audi",
+"Ferrari"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "medium",
+"question": "What is the oldest team in the NFL?",
+"correct_answer": "Arizona Cardinals",
+"incorrect_answers": [
+"Chicago Bears",
+"Green Bay Packers",
+"New York Giants"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "medium",
+"question": "In Formula 1, the Virtual Safety Car was introduced following the fatal crash of which driver?",
+"correct_answer": "Jules Bianchi",
+"incorrect_answers": [
+"Ayrton Senna",
+"Ronald Ratzenberger",
+"Gilles Villeneuve"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "medium",
+"question": "What year was hockey legend Wayne Gretzky born?",
+"correct_answer": "1961",
+"incorrect_answers": [
+"1965",
+"1959",
+"1963"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Which NBA player has the most games played over the course of their career?",
+"correct_answer": "Robert Parish",
+"incorrect_answers": [
+"Kareem Abdul-Jabbar",
+"Kevin Garnett",
+"Kobe Bryant"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "medium",
+"question": "Which of these countries&#039; national teams qualified for the 2018 FIFA World Cup in Russia?",
+"correct_answer": "Tunisia",
+"incorrect_answers": [
+"United States of America",
+"Italy",
+"Netherlands"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "hard",
+"question": "How many times did Martina Navratilova win the Wimbledon Singles Championship?",
+"correct_answer": "Nine",
+"incorrect_answers": [
+"Ten",
+"Seven",
+"Eight"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "hard",
+"question": "Where was the Games of the XXII Olympiad held?",
+"correct_answer": "Moscow",
+"incorrect_answers": [
+"Barcelona",
+"Tokyo",
+"Los Angeles"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "hard",
+"question": "Which male player won the gold medal of table tennis singles in 2016 Olympics Games?",
+"correct_answer": "Ma Long (China)",
+"incorrect_answers": [
+"Zhang Jike (China)",
+"Jun Mizutani (Japan)",
+"Vladimir Samsonov (Belarus)"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "hard",
+"question": "Which female player won the gold medal of table tennis singles in 2016 Olympics Games?",
+"correct_answer": "DING Ning (China)",
+"incorrect_answers": [
+"LI Xiaoxia (China)",
+"Ai FUKUHARA (Japan)",
+"Song KIM (North Korea)"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "hard",
+"question": "What is the full name of the footballer &quot;Cristiano Ronaldo&quot;?",
+"correct_answer": "Cristiano Ronaldo dos Santos Aveiro",
+"incorrect_answers": [
+"Cristiano Ronaldo los Santos Diego",
+"Cristiano Armando Diego Ronaldo",
+"Cristiano Luis Armando Ronaldo"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "hard",
+"question": "What team did England beat in the semi-final stage to win in the 1966 World Cup final?",
+"correct_answer": "Portugal",
+"incorrect_answers": [
+"West Germany",
+"Soviet Union",
+"Brazil"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "hard",
+"question": "Which player &quot;kung-fu kicked&quot; a Crystal Palace fan in January 1995?",
+"correct_answer": "Eric Cantona",
+"incorrect_answers": [
+"David Seamen",
+"Ashley Cole",
+"Mark Hughes"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "hard",
+"question": "Which of these Russian cities did NOT contain a stadium that was used in the 2018 FIFA World Cup?",
+"correct_answer": "Vladivostok",
+"incorrect_answers": [
+"Rostov-on-Don",
+"Yekaterinburg",
+"Kaliningrad"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "hard",
+"question": "In Canadian football, scoring a rouge is worth how many points?",
+"correct_answer": "1",
+"incorrect_answers": [
+"2",
+"3",
+"4"
+]
+},
+{
+"category": "Sports",
+"type": "multiple",
+"difficulty": "hard",
+"question": "The AHL affiliate team of the Boston Bruins is named what?",
+"correct_answer": "Providence Bruins",
+"incorrect_answers": [
+"New Haven Bruins",
+"Cambridge Bruins",
+"Hartford Bruins"
+]
+}
+]
